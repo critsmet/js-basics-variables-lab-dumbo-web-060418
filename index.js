@@ -1,3 +1,3 @@
 // Code your solution in this file!
 
-let copanyName = 'Scuber'
+let companyName = 'Scuber'
